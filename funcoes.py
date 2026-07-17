@@ -1,5 +1,4 @@
 from caixaAlta import caixaAlta
-from dobro import dobro
 
 
 print("Olá! Tudo bem, coleguinha? A seguir um menu para acessar as funções:")
@@ -47,8 +46,7 @@ while True:
                 continue
     elif menu == 2:
         while True:
-            dobro(interuptor = 1)
-
+           
             print("Deseja sair do código do Theo?")
 
             while True:
